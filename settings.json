@@ -1,0 +1,11 @@
+{
+    "capmonsterKey": "your capslover key in here",
+    "botToken": "your discord bot token in here",
+    "guildID": "your server id",
+    "botAdminId": [
+        "your acc id"
+    ],
+    "botWhitelistedId": [
+        "your fienend id"
+    ]
+}

@@ -1,0 +1,5 @@
+colorama==0.4.4
+httpx==0.21.3
+requests==2.27.1
+git+https://github.com/Pycord-Development/pycord
+pystyle
