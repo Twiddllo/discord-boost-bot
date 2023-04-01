@@ -1,3 +1,3 @@
-**the best discord boost bot**
-_f u want boost token kust dm me in discord_
-my discord username: `widdllo#0001`
+**the best discord boost bot**/n
+_if u want boost token kust dm me in discord_/n
+my discord username: `twiddllo#0001`
